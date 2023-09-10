@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Desktop\Laxie lesson\VB.Net\Intro\Intro\bin\Debug\net6.0-windows\Intro.exe
+C:\Users\User\OneDrive\Desktop\Laxie lesson\VB.Net\Intro\Intro\bin\Debug\net6.0-windows\Intro.deps.json
+C:\Users\User\OneDrive\Desktop\Laxie lesson\VB.Net\Intro\Intro\bin\Debug\net6.0-windows\Intro.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Laxie lesson\VB.Net\Intro\Intro\bin\Debug\net6.0-windows\Intro.dll
+C:\Users\User\OneDrive\Desktop\Laxie lesson\VB.Net\Intro\Intro\bin\Debug\net6.0-windows\Intro.pdb
+C:\Users\User\OneDrive\Desktop\Laxie lesson\VB.Net\Intro\Intro\obj\Debug\net6.0-windows\Intro.Form1.resources
+C:\Users\User\OneDrive\Desktop\Laxie lesson\VB.Net\Intro\Intro\obj\Debug\net6.0-windows\Intro.vbproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\Laxie lesson\VB.Net\Intro\Intro\obj\Debug\net6.0-windows\Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Laxie lesson\VB.Net\Intro\Intro\obj\Debug\net6.0-windows\Intro.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Laxie lesson\VB.Net\Intro\Intro\obj\Debug\net6.0-windows\Intro.AssemblyInfo.vb
+C:\Users\User\OneDrive\Desktop\Laxie lesson\VB.Net\Intro\Intro\obj\Debug\net6.0-windows\Intro.vbproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Laxie lesson\VB.Net\Intro\Intro\obj\Debug\net6.0-windows\Intro.dll
+C:\Users\User\OneDrive\Desktop\Laxie lesson\VB.Net\Intro\Intro\obj\Debug\net6.0-windows\refint\Intro.dll
+C:\Users\User\OneDrive\Desktop\Laxie lesson\VB.Net\Intro\Intro\obj\Debug\net6.0-windows\Intro.pdb
+C:\Users\User\OneDrive\Desktop\Laxie lesson\VB.Net\Intro\Intro\obj\Debug\net6.0-windows\Intro.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\Laxie lesson\VB.Net\Intro\Intro\obj\Debug\net6.0-windows\ref\Intro.dll
